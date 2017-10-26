@@ -1,10 +1,3 @@
-//-------------------------------------------------//
-// Aluno:      Felipe dos Santos Dotti do Prado
-// GRR:        20151127
-// Trabalho:   P10
-// Disciplina: Sistemas Operacionais
-//-------------------------------------------------//
-
 #define STACKSIZE 32768 // Definindo o tamanho da pilha para os contextos
 #define AGING 1
 #define DORMINDO 2
