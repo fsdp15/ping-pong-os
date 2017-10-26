@@ -1,8 +1,3 @@
-//------------------------------------------//
-// Aluno: Douglas Zaia Adam                 //
-// GRR: 20157412        Matéria: S.O.       //
-//------------------------------------------//
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "queue.h"
